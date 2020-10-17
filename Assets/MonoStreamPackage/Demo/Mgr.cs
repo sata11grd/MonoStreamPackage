@@ -9,11 +9,9 @@ namespace Mono.Demo
     {
         private void Awake()
         {
-            MonoStream.Subscribe(0.5f, () => Debug.Log("HI"));
-            MonoStream.Subscribe(0.5f, () => Debug.Log("HI"));
-            MonoStream.Subscribe(0.5f, () => Debug.Log("HI"));
-            MonoStream.Subscribe(1f, () => Debug.Log("HI"));
-            MonoStream.Subscribe(2f, () => Debug.Log("HI"));
+            MoStream.Subscribe(1f, () => Debug.Log("TODO"));
+            MoStream.Subscribe(2f, () => Debug.Log("TODO"));
+            MoStream.Subscribe(3f, () => Debug.Log("TODO"));
         }
     }
 }

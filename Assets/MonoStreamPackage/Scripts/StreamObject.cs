@@ -10,8 +10,8 @@ namespace Mono
 {
     public struct StreamObject
     {
-        public readonly float Delay;
-        public readonly Action OnSubscribed;
+        public float Delay;
+        public Action OnSubscribed;
 
         public StreamObject(float delay, Action onSubscribed)
         {

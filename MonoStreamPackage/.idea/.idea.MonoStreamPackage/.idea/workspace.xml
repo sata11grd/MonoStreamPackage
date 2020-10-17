@@ -8,23 +8,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Demo/Mgr.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MonoStream.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MoStream.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/Sample.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/StreamObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MonoStream.cs" />
-        <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/Sample.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/StreamObject.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Demo/Mgr.cs" />
-        <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MoStream.cs" />
+        <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MonoStream.cs" />
       </list>
     </option>
   </component>
@@ -66,9 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598060987528</updated>
-      <workItem from="1598060990781" duration="3570000" />
-      <workItem from="1598780847344" duration="13000" />
-      <workItem from="1602937344627" duration="2190000" />
+      <workItem from="1598060990781" duration="4325000" />
     </task>
     <servers />
   </component>
@@ -82,9 +71,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -95,9 +82,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="194" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598061109964" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602939036429">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602939036429" />
   </component>
 </project>
