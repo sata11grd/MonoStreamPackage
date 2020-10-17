@@ -12,9 +12,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Demo/Mgr.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MonoStream.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MoStream.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/Sample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/StreamObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -23,8 +20,8 @@
         <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MonoStream.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/Sample.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/StreamObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Demo/Mgr.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Scripts/MoStream.cs" />
+        <option value="$PROJECT_DIR$/Assets/MonoStreamPackage/Demo/Mgr.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +65,7 @@
       <updated>1598060987528</updated>
       <workItem from="1598060990781" duration="3570000" />
       <workItem from="1598780847344" duration="13000" />
-      <workItem from="1602937344627" duration="2190000" />
+      <workItem from="1602937344627" duration="3186000" />
     </task>
     <servers />
   </component>

@@ -8,9 +8,9 @@ using UnityEngine;
 
 namespace Mono
 {
-    public class MoStream : MonoBehaviour
+    public class MonoStream : MonoBehaviour
     {
-        private static MoStream _instance;
+        private static MonoStream _instance;
         private static readonly List<StreamObject> Contents = new List<StreamObject>();
 
         private void Update()
@@ -37,7 +37,7 @@ namespace Mono
             if (_instance == null)
             {
                 var obj = new GameObject {name = "Mono Stream"};
-                var comp = obj.AddComponent<MoStream>();
+                var comp = obj.AddComponent<MonoStream>();
                 _instance = comp;
                 DontDestroyOnLoad(obj);
             }
